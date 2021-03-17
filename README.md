@@ -23,14 +23,23 @@ Hi, My name is Mukhammadlatif Latipov, I am currently at 10th grade Sophomore, I
 
 ## Regular WeekDay Schedule
 
-1. 7:00 - Wake up & Take a Shower
-2. 7:30 - Eat Breakfast
-3. 8:30 - Drop off my little sister at school
-4. 9:00 - Get in the first or 5th period class
-5. 12:30 - Take a 1 hour nap
-6. 1:30 - Eat Lunch
-7. 2:00 - Do homework/study/read book
-8. 4:00 - Eat snack/take a break/spend time with family/friends
-9. 7:00 - Eat Dinner
-10. 7:30 Study more/play video games/friends time
-11. 11:00 Get ready to bed to sleep.
+* 07:00 - Wake up
+  * Take a Shower
+* 07:30 - Eat Breakfast
+* 08:30 - Drop off my little sister at school
+* 09:00 - Get in the first or 5th period class
+* 12:30 - Take a 1 hour nap
+* 13:30 - Eat Lunch
+* 14:00 - Do homework
+  * Study
+  * Pick up my sister from school
+  * Read book
+* 15:00 - Eat snack
+  * Take a break
+  * Spend time with family/friends
+* 19:00 - Eat Dinner
+* 19:30 Study more
+  * Watch TV
+  * Play video games
+  * Friends time
+* 11:00 Get ready to bed to sleep.
