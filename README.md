@@ -6,7 +6,7 @@ Mukhammadlatif Latipov
 My email is mukhammadlatifl1280@hstat.org
 
 ## School
-I study at High School Of Telecommunication Arts And Technology(HSTAT) 
+I study at High School Of Telecommunication Arts And Technology [HSTAT](hstat.org)
 
 ## Bio
 Hi, My name is Mukhammadlatif Latipov, I am currently at 10th grade Sophomore, I am 15 years old, I live in Brooklyn, NY.
