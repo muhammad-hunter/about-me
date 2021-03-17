@@ -2,8 +2,9 @@
 
 Mukhammadlatif Latipov
 
-## Email
-My email is mukhammadlatifl1280@hstat.org
+## Email/Phone Number
+My email is mukhammadlatifl1280@hstat.org  
+My phone number is +1-929-418-7167. 
 
 ## School
 I study at High School Of Telecommunication Arts And Technology [HSTAT](hstat.org)
