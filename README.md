@@ -12,6 +12,8 @@ I study at High School Of Telecommunication Arts And Technology [HSTAT](hstat.or
 ## Bio
 Hi, My name is Mukhammadlatif Latipov, I am currently at 10th grade Sophomore, I am **15 years old**, I live in *Brooklyn, NY*.
 
+---
+
 ## School Schedule:
 1. Period 1 - Spanish
 2. Period 2 - Chemistry
@@ -21,6 +23,10 @@ Hi, My name is Mukhammadlatif Latipov, I am currently at 10th grade Sophomore, I
 6. Period 6 - SEP
 7. Period 7 - Global History
 8. Period 8 - Algebra
+
+---
+
+---
 
 ## Regular WeekDay Schedule
 
@@ -44,3 +50,5 @@ Hi, My name is Mukhammadlatif Latipov, I am currently at 10th grade Sophomore, I
   * Play video games
   * Friends time
 * 11:00 Get ready to bed to sleep.
+
+---
